@@ -6,8 +6,6 @@ Muhammet Aytaç İpekel (211216034)
 =======
 Developer:
 Muhammet Aytaç ipekel
-ASISTAN:
-Keyvan Arasteh
 >>>>>>> 00aa4588579b7792dd016f40bd2f5785c0c419bf
 
 Asisstans:
