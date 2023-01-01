@@ -1,13 +1,7 @@
-# SoloQ
-
-<<<<<<< HEAD
-Ad Soyad:
-Muhammet Aytaç İpekel (211216034)
 =======
 Developer:
 Muhammet Aytaç ipekel
->>>>>>> 00aa4588579b7792dd016f40bd2f5785c0c419bf
-
+=======
 Asisstans:
 Keyvan Aresteh
 
